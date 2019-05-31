@@ -1,0 +1,15 @@
+h4{
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.loginBtn{
+    margin-top: 20px;
+    background-color: aqua;
+}
+
+.signup-text{
+    text-align: inherit;
+}
